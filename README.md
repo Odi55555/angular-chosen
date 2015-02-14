@@ -11,7 +11,7 @@ use the "chosen" directive as an attribute on any select element.  Angular versi
 
 # Installation
 
-    $ bower install angular-chosen-localytics --save
+    $ bower install angular-chosen-odi55555 --save
 
 ## Yeoman or Bower install
 If you use Yeoman or Bower install, you need to rename the `chosen.jquery.js` or the `chosen.proto.js` to `chosen.js`. Otherwise Chosen won't be included in your `index.html`.
