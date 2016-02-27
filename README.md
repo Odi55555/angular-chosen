@@ -3,7 +3,6 @@ angular-chosen
 
 #Warning: Outdated code!#
 This fork was created to fix [#117](https://github.com/leocaseiro/angular-chosen/pull/117). The fix is included in version [1.1.0](https://github.com/leocaseiro/angular-chosen/tree/1.1.0). So please use [Leo's source](https://github.com/leocaseiro/angular-chosen) again.
-pa
 
 AngularJS Chosen directive
 
